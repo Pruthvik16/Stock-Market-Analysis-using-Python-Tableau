@@ -29,17 +29,3 @@ The project includes an interactive Tableau dashboard that offers intuitive visu
 3. **Price Percent Change and Moving Average Graphs:** The dashboard includes components highlighting price percent changes and moving averages for the open price. These insights empower traders and analysts to identify trends and potential entry/exit points.
 
 4. **Percent Change in Price and Volume Tables:** As requested, the dashboard now presents tables showcasing percentage changes in price and volume. These tables provide a clear overview of market dynamics.
-
-**Project Utilization:**
-
-If you wish to utilize this project for analysis or learning, follow these steps:
-
-1. **Data Enrichment:** The repository contains Python code for data enrichment via pandas. By following the code instructions, you can enhance your stock market data with the specified columns.
-
-2. **Tableau Dashboard:** Download the supplied Tableau workbook (.twbx) and open it with Tableau Desktop. This provides access to the interactive dashboard for exploration, insight extraction, and visualization customization.
-
-3. **Exploration and Adaptation:** Utilize the dashboard's visualizations and tables to extract insights into stock market dynamics for the specified companies. Adapt the code and dashboard design according to your needs or contribute enhancements to the repository.
-
-Please note that this project is intended solely for educational and analytical purposes, and it does not offer financial advice. It is an independent effort and is not associated with the mentioned technology companies or Tableau.
-
-Feel free to explore, learn, and leverage the insights provided by this project to deepen your understanding of stock market trends and dynamics. With the new addition of percent change in price and volume tables, you have a more comprehensive toolkit at your disposal.
